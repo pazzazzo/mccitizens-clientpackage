@@ -1,1 +1,1 @@
-147.185.221.30:58814
+network-leadership.gl.joinmc.link:25565
